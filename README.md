@@ -330,7 +330,7 @@ I'm always interested in building something useful, learning new technologies, a
 
 ### 💻 Code. Build. Learn. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=barunkumarmahakud&label=Profile%20Views&color=C8756A&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=b-a-r-u-n&label=Profile%20Views&color=C8756A&style=flat" alt="Profile Views"/>
 
 <br/><br/>
 
