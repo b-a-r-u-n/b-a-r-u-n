@@ -251,18 +251,27 @@ STYQLO is a full-stack e-commerce platform designed to provide a modern shopping
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="center">✦ Contribution Journey</h2>
 
-<div align="center">
+<p align="center">
+  <sub>Building, experimenting, and shipping — one contribution at a time.</sub>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-a-r-u-n&bg_color=ffffff00&color=666666&line=C8756A&point=C8756A&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+<br>
 
-<img
+<p align="center">
+  <img
     src="https://raw.githubusercontent.com/b-a-r-u-n/b-a-r-u-n/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    width="92%"
+    alt="GitHub Contribution Journey"
   />
+</p>
 
-</div>
+<p align="center">
+  <sub>⌁ Consistency • Curiosity • Continuous Improvement</sub>
+</p>
+
+
 
 ---
 
