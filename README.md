@@ -4,35 +4,35 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Barun Kumar Mahakud**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Barun%20Kumar%20Mahakud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=58&descSize=18" width="100%" />
 
-### **Full Stack Developer • Building Modern, Scalable Web Experiences**
+<br />
 
-> **Turning ideas into clean, responsive, production-ready web applications.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Building+Digital+Products;Turning+Ideas+Into+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
 
-<br/>
+<br /><br />
 
-<a href="https://github.com/barunkumarmahakud">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/b-a-r-u-n">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="[I will add later linkedlin]">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/[YOUR_INSTAGRAM]">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://barunkumarmahakud.com">
-  <img src="https://img.shields.io/badge/Portfolio-C8756A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:barunkumarmahakud40@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br />
 
-<img src="Assets/output.gif" alt="Barun Kumar Mahakud Developer Animation" width="100%"/>
-
+<img src="Assets/output.gif" alt="Barun Kumar Mahakud Developer Animation" width="50%"/>
 </div>
+
 
 ---
 
@@ -171,20 +171,6 @@ Currently building and improving **STYQLO**, a modern full-stack e-commerce plat
 
 **Deployment:** Hostinger VPS • Linux • Git • GitHub • Production Deployment
 
----
-
-## 🤖 AI / ML
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Generative AI"/>
-
-</p>
-
-**Exploring:** AI-powered applications • Generative AI • AI developer workflows
-
----
 
 ## 🔧 Tools
 
@@ -244,25 +230,24 @@ STYQLO is a full-stack e-commerce platform designed to provide a modern shopping
 
 # 📊 GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-<a href="https://github.com/barunkumarmahakud">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=b-a-r-u-n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-a-r-u-n&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=barunkumarmahakud&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<br /><br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barunkumarmahakud&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=b-a-r-u-n&theme=tokyonight&hide_border=true&border_radius=10" />
 
-</a>
+<br /><br />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=barunkumarmahakud&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=barunkumarmahakud&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=b-a-r-u-n&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" width="100%" />
 
 ---
 
@@ -270,7 +255,12 @@ STYQLO is a full-stack e-commerce platform designed to provide a modern shopping
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barunkumarmahakud&bg_color=ffffff00&color=666666&line=C8756A&point=C8756A&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=b-a-r-u-n&bg_color=ffffff00&color=666666&line=C8756A&point=C8756A&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+
+<img
+    src="https://raw.githubusercontent.com/b-a-r-u-n/b-a-r-u-n/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 
 </div>
 
