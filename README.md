@@ -29,9 +29,12 @@
 </a>
 
 <br />
+<br />
 
 <img src="Assets/output.gif" alt="Barun Kumar Mahakud Developer Animation" width="50%"/>
 </div>
+
+<br />
 
 
 ---
