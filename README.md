@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img src="Assets/output.gif" alt="Barun Kumar Mahakud Developer Animation" width="50%"/>
+<img src="Assets/output.gif" alt="Barun Kumar Mahakud Developer Animation" width="100%"/>
 </div>
 
 <br />
