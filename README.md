@@ -334,6 +334,6 @@ I'm always interested in building something useful, learning new technologies, a
 
 <br/><br/>
 
-
+**⭐ Thanks for visiting my profile!**
 
 </div>
